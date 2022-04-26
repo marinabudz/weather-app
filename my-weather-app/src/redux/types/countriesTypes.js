@@ -1,0 +1,6 @@
+export const CountriesActionTypes = {
+	SET_COUNTRIES: "SET_COUNTRIES",
+	SET_COUNTRIES_ERROR: "SET_COUNTRIES_ERROR",
+	IS_LOADING: "IS_LOADING",
+  };
+  
