@@ -1,10 +1,10 @@
 import React, { useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { getCountries } from "../../redux/actions/getCountries";
-import Card from '../../components/Card/Card.tsx'
+import Card from '../../components/Card/Card.jsx'
 import styles from "./Countries.module.scss";
 
-const CountriesPage = (): JSX.Element => {
+const CountriesPage = () => {
   const dispatch = useDispatch();
   const countriesData = useSelector((state) => state.countries.data);
   const loading = useSelector((state) => state.countries.isLoading);

@@ -1,3 +1,54 @@
+
+
+Марія	У чому різниця між useEffect і useLayoutEffect?"
+after render before view
+Андрій	Навіщо потрібен useCallback?"
+Артем	Як реалізувати слідComponentUpdate у функціональному компоненті?"
+React.memo()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
